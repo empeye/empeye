@@ -1,7 +1,7 @@
 ### Hi! 👋
 
 My name is Pornwanut Kitudom. Now I am an undergraduate student in Health Data Science.
-There are many "coding" things since I have studying about Data science, so I will keep some of them on this.
+\nThere are many "coding" things since I have studying about Data science, so I will keep some of them on this.
 
 #### 🔭 Fields of Interest
 - Biostatistics
